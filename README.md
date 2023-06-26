@@ -1,9 +1,10 @@
 # Arteries-Analyzer-ImageJ-Plugin
 ![image](https://github.com/reiservalentina/Arteries-Analyzer-ImageJ-Plugin/assets/137767526/bac18b09-4bcb-48a8-93de-593161775785)
-“Arteries Analyzer/ImageJ” — Using the ImageJ software, a freely available new plugin named “Arteries Analyzer/ImageJ” was developed.
-The plugin was programmed specifically for this research, in order to enable an automated, objective analysis. The aim of the „Arteries Analyzer“ is to measure the osseous borders of the arterial channels20 21of the phalanx distalis from arcus terminalis to the margo solearis, and to characterize them numerically.
-The Plot Profile lists the precise measurements of the arterial channels based on very limited manual input. As a pilot, this was tested and optimized several times by the authors using radiographs,  that were not included in the main part of the study, e.g. of horses where radiography had been carried out on a single forelimb only.  
-The sequence of processing is as follows: After starting ImageJ the plugin “Arteries Analyzer” is found under the folder “Plugins” and the subfolder “Analyze”. After launching the “Arteries Analyzer” the radiograph to analyze can be opened by ImageJ.
+Using the ImageJ software, a freely available new plugin named “Arteries Analyzer/ImageJ” was developed.
+The plugin was programmed specifically for this research, in order to enable an automated, objective analysis. The aim of the „Arteries Analyzer“ is to measure the osseous borders of the arterial channels of the phalanx distalis from arcus terminalis to the margo solearis, and to characterize them numerically.
+The Plot Profile lists the precise measurements of the arterial channels based on very limited manual input. 
+The sequence of processing is as follows:
+After starting ImageJ the plugin “Arteries Analyzer” is found under the folder “Plugins” and the subfolder “Analyze”. After launching the “Arteries Analyzer” the radiograph to analyze can be opened by ImageJ.
 The plot profile will guide the user through every step of the measurements by showing pop up icons.
 Appendix /How to use: 
 After scaling using a straight, another straight line was drawn between the lateral and the medial fovea ligamentaria of the phalanx proximalis (b_(proximal pastern), (figure A). 
@@ -15,5 +16,3 @@ Figure F describes the step where the “Arteries Analyzer” ask the user to ch
 Afterwards the user has to select if another arteriole should be measured (Figure G). 
 If no other arteriole should be measured, the user has to decide if a ellipse should be measured (Figure H). 
 If yes, the ellipse has to be measured counterclockwise similar to the arterioles by placing and shaping an ellipse congruent to the area of reduced bone density using the shapes selection of imageJ. (Figure I)
-
-
