@@ -8,5 +8,5 @@ Figure E shows the closing line of the visible first arteriole. This line was cr
 Figure F describes the step where the “Arteries Analyzed” ask the user to choose the left line in the ROI Manager. 
 Afterwards the analyzer has to select if another arteriole should be measured (Figure G).
 If no other arteriole should be measured, the analyzer has to decide if a ellipse should be measured (Figure H). 
-If yes, the ellipse has to be measured counterclockwise similar to the arterioles by placing and shaping an ellipse congruent to the area of reduced bone density using the shapes selection of imageJ. 
+If yes, the ellipse has to be measured counterclockwise similar to the arterioles by placing and shaping an ellipse congruent to the area of reduced bone density using the shapes selection of imageJ. (Figure I)
 
